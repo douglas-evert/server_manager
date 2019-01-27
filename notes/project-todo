@@ -1,0 +1,15 @@
+Make login page
+make View only page
+make search page
+make new entry page
+make delete option
+make date searchable
+
+
+login page: 
+    use form to get username and password
+    variables: 
+        user_username
+        user_password
+    being submitted to authentication.php
+    
