@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    include ./php/header.php
+    include './php/header.php'
     ?>
     <?php
         echo 'this is a test'
