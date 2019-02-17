@@ -11,6 +11,7 @@
     ?>
     <?php
         echo 'this is a test'
+        echo $_ENV['username'];
         ?>
 </body>
 </html>
