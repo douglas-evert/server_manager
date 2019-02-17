@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -10,8 +9,10 @@
     include './php/header.php'
     ?>
     <?php
-        echo 'this is a test'
-        echo $_ENV['username'];
-        ?>
+        $test = "testing";
+        echo '<p>this is a test</p>';
+        echo $_SERVER[HTTP_USER_AGENT];
+        echo "\n" . $test;
+    ?>
 </body>
 </html>
