@@ -9,13 +9,14 @@
         <div class="title_bar">
             <p> Title </p> 
         </div>
-        <div class="left_side_bar">
-            <p> left side bar</p>
+        <div class="frame100">
+            <div class="left_side_bar">
+                <p> left side bar</p>
+            </div>
+            <div class="main_body">
+                <p> Main Body </p>
+            </div>
         </div>
-        <div class="main_body">
-            <p> Main Body </p>
-        </div>
-
     </div>
     <?php
     include './php/header.php'

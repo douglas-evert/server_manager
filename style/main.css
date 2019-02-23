@@ -2,9 +2,26 @@ body {
     background-color: yellow
 
 }
-.titlebar {
-    width: 100%
+.frame100 {
+    width: 100%;
+    display: flex;
 }
+
+.title_bar {
+    width: 100%;
+    background-color: blueviolet;
+}
+
+.left_side_bar {
+    width: 10%;
+    background-color: aquamarine;
+}
+
+.main_body {
+    width: 90%;
+    background-color: darkgoldenrod
+}
+
 #logo { 
     width: 10%;
     background-color: blue
