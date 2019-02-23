@@ -7,7 +7,12 @@
 <body>
     <div class="frame100">
         <div class="title_bar">
-            <p> Title </p> 
+            <div class="per10">
+                <img src=" " alternate="logo" />
+            </div>
+            <div class="per90">
+                <p> Title </p> 
+            </div>
         </div>
     </div>
     <div class="frame100">
@@ -18,14 +23,5 @@
             <p> Main Body </p>
         </div>
     </div>
-    <?php
-    include './php/header.php'
-    ?>
-    <?php
-        $test = "testing";
-        echo '<p>this is a test</p>';
-        echo $_SERVER[HTTP_USER_AGENT];
-        echo "\n" . $test;
-    ?>
 </body>
 </html>

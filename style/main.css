@@ -9,7 +9,15 @@ body {
 
 .title_bar {
     width: 100%;
+    
     background-color: blueviolet;
+}
+.per10 {
+    width: 10%;
+}
+
+.per90 {
+    width: 90%;
 }
 
 .left_side_bar {
