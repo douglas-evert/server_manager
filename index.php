@@ -8,7 +8,7 @@
     <div class="frame100">
         <div class="title_bar">
             <div class="per10">
-                <img src=" " alternate="logo" />
+                <img src=" " alt="logo" />
             </div>
             <div class="per90">
                 <p> Title </p> 
